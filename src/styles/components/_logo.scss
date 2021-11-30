@@ -1,0 +1,21 @@
+.logo {
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: url(../../assets/main.jpg) center/cover;
+  height: 125px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 0px rgba(51, 51, 51, 0.5);
+  transition: transform 0.8s ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+
+  img {
+    height: 60px;
+    width: 60px;
+  }
+}
