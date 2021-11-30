@@ -10,10 +10,10 @@ The app uses a database where names and posts are stored and are retrieved on pa
 ![site image](https://i.imgur.com/81SBWHA.jpg)
 
 ## What I used 🔨
-My main focus was to work with React but this project also involved using HTML & SASS.
+My main focus was to work with React but this project also involved using HTML, CSS & SASS.
 
-## Extra practice ✔
-I also took this opportunity to practice SASS and to learn how to use the JSON server npm package to simulate a server and use my post data base.
+## Extra learning ✔
+I also took this opportunity to learn how to use the JSON server npm package to simulate a server and use my post's data base.
 
 ## Responsiveness ❕
 This page is fully responsive on all screens 🙂
